@@ -1,0 +1,1 @@
+ALTER TABLE accounts MODIFY COLUMN securityCode VARCHAR(36) NOT NULL;
